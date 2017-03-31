@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">你好，世界！</string>
+    <string name="button_send">發送</string>
+    <string name="edit_message">填寫要發送的信息</string>
+</resources>

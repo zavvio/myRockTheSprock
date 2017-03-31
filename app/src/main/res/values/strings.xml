@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">MyTestApplication</string>
+    <string name="hello_world">(Localzied) Hello World!</string>
+    <string name="button_delete_temp_photos" translatable="false">Delete temp photos</string>
+    <string name="button_link_reader">Link Reader</string>
+    <string name="button_send">Send</string>
+    <string name="button_take_picture" translatable="false">Take Picture</string>
+    <string name="button_take_video" translatable="false">Take Video</string>
+    <string name="button_use_camera_app" translatable="false">Use Camera app</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="grant_permission" translatable="false">Grant Permission</string>
+    <string name="permission_granted" translatable="false">All permissions have been granted</string>
+</resources>
