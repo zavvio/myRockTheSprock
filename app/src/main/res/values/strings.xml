@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name" translatable="false">MyTestApplication</string>
+    <string name="app_name" translatable="false">myRockTheSprock</string>
     <string name="hello_world">(Localzied) Hello World!</string>
     <string name="button_delete_temp_photos" translatable="false">Delete temp photos</string>
-    <string name="button_link_reader">Link Reader</string>
+    <string name="button_link_reader" translatable="false">Link Reader</string>
     <string name="button_send">Send</string>
     <string name="button_take_picture" translatable="false">Take Picture</string>
     <string name="button_take_video" translatable="false">Take Video</string>
